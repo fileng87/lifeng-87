@@ -1,5 +1,6 @@
 <h1 align="center">About me</h1>
 <h3 align="center">A student from Taiwan</h3>
+
 - 🌱 I’m currently learning **Javascript**
 
 <h3 align="left">Connect with me:</h3>
@@ -11,3 +12,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lifeng-87&show_icons=true&locale=en" alt="lifeng-87" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lifeng-87&" alt="lifeng-87" /></p>
+
