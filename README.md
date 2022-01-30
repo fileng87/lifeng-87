@@ -1,5 +1,9 @@
-<h1 align="center">About me</h1>
-<h3 align="center">A student from Taiwan</h3>
+### Hi there 👋
 
--learning **Javascript**
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lifeng-87)  
+
+![GitHub metrics](https://metrics.lecoq.io/lifeng-87)  
+
 
