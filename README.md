@@ -5,7 +5,7 @@
 </a>
 <p/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeng-87&theme=dark&layout=compact&card_width=450" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeng-87&theme=dark&layout=compact&card_width=420" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=lifeng87&theme=dark&layout=compact&langs_count=6" />
