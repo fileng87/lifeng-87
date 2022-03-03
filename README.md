@@ -1,4 +1,4 @@
-# (☞ﾟヮﾟ)☞☜(⌒▽⌒)☞☜(ﾟヮﾟ☜)
+# (☞ﾟヮﾟ)☞☜(ﾟヮﾟ☜)
 
 <a href="https://github.com/lifeng-87/lifeng-87">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lifeng-87&theme=codeSTACKr&show_icons=true&include_all_commits=true&hide_border=true" />
