@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lifeng-87&theme=dark&show_icons=true&include_all_commits=" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeng-87&theme=dark&layout=compact&card_width=445" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeng-87&theme=dark&layout=compact&card_width=445&langs_count=6" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=lifeng87&theme=dark&layout=compact&langs_count=6" />
