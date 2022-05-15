@@ -54,11 +54,10 @@
 ## ⚡ Stats
 <div align="center">
   <a href="https://github.com/lifeng-87" target="_blank">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lifeng-87&theme=discord_old_blurple&show_icons=true&include_all_commits=true&hide_border=true" alt="lifeng87" />
+    <img height="250px" src="https://github-readme-stats.vercel.app/api?username=lifeng-87&theme=discord_old_blurple&show_icons=true&include_all_commits=true&hide_border=true" alt="lifeng87" />
   </a>
-  <br />
   <a href="https://github.com/lifeng-87" target="_blank">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lifeng87&theme=discord_old_blurple&layout=compact&langs_count=8&hide_border=true&hide=Other" alt="lifeng87" />
+    <img height="250px" src="https://github-readme-stats.vercel.app/api/wakatime?username=lifeng87&theme=discord_old_blurple&layout=compact&langs_count=8&hide_border=true&hide=Other" alt="lifeng87" />
   </a>
 </div>
 
