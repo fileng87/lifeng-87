@@ -24,7 +24,7 @@
 
 ## 👩‍💻 Language
 
-<div align="center">
+<div align="center" width="90%">
 
   [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=JAVASCRIPT />](https://github.com/lifeng-87)
   [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt=TYPESCRIPT style="margin-left: 5px;"/>](https://github.com/lifeng-87)
