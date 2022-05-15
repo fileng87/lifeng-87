@@ -40,16 +40,16 @@
 ## ⚡ Stats
 <div align="center">
   <a href="https://github.com/lifeng-87" target="_blank">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lifeng-87&theme=discord_old_blurple&show_icons=true&include_all_commits=true&hide_border=true" alt="lifeng87" />
+    <img width="90%" src="https://github-readme-stats.vercel.app/api?username=lifeng-87&theme=discord_old_blurple&show_icons=true&include_all_commits=true&hide_border=true" alt="lifeng87" />
   </a>
   <a href="https://github.com/lifeng-87" target="_blank">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lifeng87&theme=discord_old_blurple&layout=compact&langs_count=8&hide_border=true&hide=Other" alt="lifeng87" />
+    <img width="90%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lifeng87&theme=discord_old_blurple&layout=compact&langs_count=8&hide_border=true&hide=Other" alt="lifeng87" />
   </a>
 </div>
 
 ## 🎶 Spotify Playing
 <div align="center">
 
-  [<img width=95% alt="Spotify" src="https://novatorem-lifeng-87.vercel.app/api/spotify" />](https://open.spotify.com/user/31lw4c5f35bc3olrqvumb65dwnxu)
+  [<img width=90% alt="Spotify" src="https://novatorem-lifeng-87.vercel.app/api/spotify" />](https://open.spotify.com/user/31lw4c5f35bc3olrqvumb65dwnxu)
 
 </div>
