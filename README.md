@@ -46,9 +46,6 @@
   <a herf="https://github.com/lifeng-87">
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt=JSON style="margin-left: 5px;"/>
   </a>
-  <a herf="https://github.com/lifeng-87">
-    <img src="https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white" alt=NODE-RED style="margin-left: 5px;"/>
-  </a>
 </div>
 
 ## ⚡ Stats
