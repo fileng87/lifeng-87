@@ -15,7 +15,7 @@
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC-4_DC84v16kkJHEiqFQa0w?color=%23FF0000&label=Subscribers&logo=Youtube&style=for-the-badge" style="margin-left: 5px;">
   </a>  
   <a herf="https://github.com/lifeng-87" target="_blank">
-    <img onclick="return false" src="https://komarev.com/ghpvc/?username=lifeng-87&color=blue&&style=for-the-badge" style="margin-left: 5px;" alt="lifeng87" />
+    <img src="https://komarev.com/ghpvc/?username=lifeng-87&color=blue&&style=for-the-badge" style="margin-left:5px;pointer-events:none" alt="lifeng87" />
   </a>
 </div>
 
