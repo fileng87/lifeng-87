@@ -47,7 +47,7 @@
   </a>
 </div>
 
-## [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" width="23" height="23"/>](https://github.com/lifeng-87) Spotify Playing
+## 🎶 Spotify Playing
 <div align="center">
 
   [<img width=95% alt="Spotify" src="https://novatorem-lifeng-87.vercel.app/api/spotify" />](https://open.spotify.com/user/31lw4c5f35bc3olrqvumb65dwnxu)
