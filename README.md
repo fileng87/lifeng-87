@@ -19,7 +19,10 @@
   </a>
 </div>
 
-## 👩‍💻 language
+## ✒️ About Me
+偶爾寫寫程式的高中生，平常喜歡探索未知的事物，目前正在製作Discord bot - 2022/5 by <a herf="https://github.com/lifeng-87">@lifeng-87</a>
+
+## 👩‍💻 Language
 
 <div align="center">
   <a herf="https://github.com/lifeng-87">
