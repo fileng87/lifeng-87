@@ -66,7 +66,7 @@
 ### Playing
 <div align="center">
   <a herf="https://open.spotify.com/user/31lw4c5f35bc3olrqvumb65dwnxu">
-  <img width=100% alt="Spotify Playing" src="https://novatorem-lifeng-87.vercel.app/api/spotify">
+    <img width=100% alt="Spotify Playing" src="https://novatorem-lifeng-87.vercel.app/api/spotify" />
   </a>
   <br />
   <a herf="https://open.spotify.com/user/31lw4c5f35bc3olrqvumb65dwnxu">
