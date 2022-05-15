@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://github.com/lifeng-87" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/lifeng-87?color=%23181717&label=GitHub&logo=GitHub&style=for-the-badge"  alt="github">
   </a>
   <a href="https://twitter.com/lifeng87" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-left: 5px;" />
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lifeng87?color=%231DA1F2&label=Twitter&logo=Twitter&style=for-the-badge" style="margin-left: 5px;" alt="twitter"/>
   </a>
   <a href="https://www.youtube.com/channel/UC-4_DC84v16kkJHEiqFQa0w" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-left: 5px;" />
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC-4_DC84v16kkJHEiqFQa0w?color=%23FF0000&label=Youtube&logo=Youtube&style=for-the-badge" style="margin-left: 5px;" alt="youtube">
   </a>  
   <a herf="https://github.com/lifeng-87" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=lifeng-87&color=blue&&style=for-the-badge" style="margin-left: 5px;" alt="lifeng87" />
