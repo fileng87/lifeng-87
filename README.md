@@ -11,7 +11,7 @@
   <a href="https://twitter.com/lifeng87" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-left: 5px;" />
   </a>
-  <a href="https://www.youtube.com/user/UC-4_DC84v16kkJHEiqFQa0w" target="_blank">
+  <a href="https://www.youtube.com/channel/UC-4_DC84v16kkJHEiqFQa0w" target="_blank">
     <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-left: 5px;" />
   </a>  
   <a herf="https://github.com/lifeng-87">
