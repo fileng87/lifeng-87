@@ -64,6 +64,6 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" width="23" height="23"/> Spotify Playing
 <div align="center">
 
-  [<img width=90% alt="Spotify" src="https://novatorem-lifeng-87.vercel.app/api/spotify" />](https://open.spotify.com/user/31lw4c5f35bc3olrqvumb65dwnxu)
+  [<img width=95% alt="Spotify" src="https://novatorem-lifeng-87.vercel.app/api/spotify" />](https://open.spotify.com/user/31lw4c5f35bc3olrqvumb65dwnxu)
 
 </div>
