@@ -1,6 +1,6 @@
 # 👋 Hello there
 
-<a>
+<a href="https://github.com/lifeng-87" target="_blank">
   <img width="100%" src="./images/logo.png">
 </a>
 
