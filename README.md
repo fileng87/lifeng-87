@@ -62,5 +62,14 @@
   </a>
 </div>
 
-## 🎶Spotify Playing
-[![Spotify](https://novatorem-lifeng-87.vercel.app/api/spotify)](https://open.spotify.com/user/31lw4c5f35bc3olrqvumb65dwnxu)
+## 🎶Spotify
+### Playing
+<div align="center">
+  <a herf="https://open.spotify.com/user/31lw4c5f35bc3olrqvumb65dwnxu">
+  <img width=100% alt="Spotify Playing" src="https://novatorem-lifeng-87.vercel.app/api/spotify">
+  </a>
+  <br />
+  <a herf="https://open.spotify.com/user/31lw4c5f35bc3olrqvumb65dwnxu">
+    <img width="100%" alt="Spotify Played" src="https://spotify-recently-played-readme.vercel.app/api?user=31lw4c5f35bc3olrqvumb65dwnxu&count=10&width=600" />
+  </a>
+</div>
