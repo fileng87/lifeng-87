@@ -1,4 +1,4 @@
-# 👋 Lifeng87
+# 👋 Hello there
 
 <a>
   <img width="100%" src="./images/logo.png">
