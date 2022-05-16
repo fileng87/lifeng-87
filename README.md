@@ -43,6 +43,9 @@
   <a herf="https://github.com/lifeng-87" target="_blank">
     <img height="270em" src="https://activity-graph.herokuapp.com/graph?username=lifeng-87&bg_color=2c2f33&color=4d5a83&line=4d5a83&point=ffffff&hide_border=true" alt="lifeng87"/>
   </a>
+  <a herf="https://github.com/lifeng-87" target="_blank">
+    <img width="95%" src="https://metrics.lecoq.io/lifeng-87?template=classic&base.indepth=false&config.timezone=Asia%2FTaipei" alt="lifeng87">
+  </a>
 </div>
 
 ## 🎶 Spotify Playing
