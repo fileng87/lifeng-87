@@ -21,7 +21,7 @@
 
 ## ✒️ About Me
 
-<img width="20%" align="right" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
+<img height="100em" align="right" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
 
 ```
 偶爾寫寫程式的高中生，平常喜歡探索未知的事物，目前正在製作 Discord bot
@@ -35,7 +35,7 @@
 
 ## 👩‍💻 Language
 
-<div align="center" width="95%">
+<div align="left" width="95%">
 
 [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=JAVASCRIPT />](https://github.com/lifeng-87) [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt=TYPESCRIPT style="margin-left: 5px;"/>](https://github.com/lifeng-87) [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt=PYTHON style="margin-left: 5px;"/>](https://github.com/lifeng-87) [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt=C# style="margin-left: 5px;" />](https://github.com/lifeng-87) [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=C++ style="margin-left: 5px;" />](https://github.com/lifeng-87) [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=HTML5 style="margin-left: 5px;" />](https://github.com/lifeng-87) [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=CSS3 style="margin-left: 5px;" />](https://github.com/lifeng-87) [<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt=JSON style="margin-left: 5px;"/>](https://github.com/lifeng-87)
 
