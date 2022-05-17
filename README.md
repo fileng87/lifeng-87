@@ -22,13 +22,13 @@
 ## ✒️ About Me
 <table align="center">
   <tr>
-    <td style="width: 90%;padding:0">
+    <td width="90%">
       <p style="font-size:15px">偶爾寫寫程式的高中生，平常喜歡探索未知的事物，目前正在製作 Discord bot</p>
       <div align="right">
         <p width="100%">2022/5 by <a herf="https://github.com/lifeng-87" alt="@lifeng-87">@lifeng-87</a></p>
       </div>
     </td>
-    <td style="width: 10%;padding:0">
+    <td width="10%">
       <img width="100%" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
     </td>
   </tr>
