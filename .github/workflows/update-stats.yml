@@ -40,7 +40,6 @@ jobs:
                   plugin_habits_facts: yes
                   plugin_habits_charts: yes
                   plugin_habits_from: 200
-                  config_timezone: Asia/Taipei
                   plugin_languages: yes
                   plugin_languages_analysis_timeout: 15
                   plugin_languages_categories: markup, programming
@@ -64,3 +63,4 @@ jobs:
                   plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
                   plugin_wakatime_url: https://wakatime.com
                   plugin_wakatime_user: lifeng87
+                  config_timezone: Asia/Taipei
