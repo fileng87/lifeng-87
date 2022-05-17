@@ -44,7 +44,7 @@
     <img height="270em" src="https://activity-graph.herokuapp.com/graph?username=lifeng-87&bg_color=2c2f33&color=4d5a83&line=4d5a83&point=ffffff&hide_border=true" alt="lifeng87"/>
   </a>
   <a herf="https://github.com/lifeng-87" target="_blank">
-    <img width="95%" src="https://metrics.lecoq.io/lifeng-87?template=classic&base.indepth=false&config.timezone=Asia%2FTaipei" alt="lifeng87">
+    <img width="95%" src="https://metrics.lecoq.io/lifeng-87?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&anilist=1&base.indepth=false&anilist.medias=anime&anilist.sections=favorites%2C%20characters&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&anilist.user=lifeng87&config.timezone=Asia%2FTaipei" alt="lifeng87">
   </a>
 </div>
 
