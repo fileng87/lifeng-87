@@ -48,9 +48,9 @@
 ## 📊 Other
 
 <div align="center">
-  <a herf="https://github.com/lifeng-87" target="_blank">
-    <img width="95%" src="/github-metrics.svg" alt="lifeng87">
-  </a>
+
+[<img width="95%" src="/github-metrics.svg" alt="lifeng87">](https://github.com/lifeng-87)
+
 </div>
 
 ## 🎶 Spotify Playing
