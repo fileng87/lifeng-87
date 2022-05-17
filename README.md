@@ -29,7 +29,9 @@
       </div>
     </td>
     <td width="10%">
-      <img width="100%" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
+      <a herf="https://github.com/lifeng-87" target="_blank">
+        <img width="100%" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
+      </a>
     </td>
   </tr>
 </table>
