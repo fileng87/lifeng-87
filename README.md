@@ -44,9 +44,9 @@
 
 ## ⚡ Stats
 
-<table align="center" style="width: 100%;">
+<table align="center" width="100%">
   <tr>
-    <td style="width: 65%;padding:0">
+    <td width="65%">
       <a href="https://github.com/lifeng-87" target="_blank">
         <img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=lifeng-87&theme=discord_old_blurple&show_icons=true&include_all_commits=true&hide_border=true" alt="lifeng87" />
       </a>
@@ -59,7 +59,7 @@
         <img style="width: 100%" src="https://activity-graph.herokuapp.com/graph?username=lifeng-87&bg_color=2c2f33&color=4d5a83&line=4d5a83&point=ffffff&hide_border=true" alt="lifeng87"/>
       </a>
     </td>
-    <td style="width: 35%;padding:0">
+    <td width="35%">
       <a href="https://github.com/lifeng-87" target="_blank">
         <img style="width: 100%" src="./github-metrics.svg" alt="lifeng87" />
       </a>
