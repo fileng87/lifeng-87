@@ -55,6 +55,7 @@ jobs:
                   plugin_tweets_limit: 5
                   plugin_tweets_user: lifeng87
                   plugin_wakatime: yes
+                  plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
                   plugin_wakatime_days: 30
                   plugin_wakatime_languages_other: yes
                   plugin_wakatime_limit: 8
