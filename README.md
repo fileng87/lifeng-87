@@ -43,7 +43,7 @@
 
 ## ⚡ Stats
 
-<div align=top>
+<div align="top">
   <div width="45%">
     <a href="https://github.com/lifeng-87" target="_blank">
       <img width="45%" src="https://github-readme-stats.vercel.app/api?username=lifeng-87&theme=discord_old_blurple&show_icons=true&include_all_commits=true&hide_border=true" alt="lifeng87" />
