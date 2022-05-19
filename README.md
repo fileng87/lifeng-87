@@ -1,7 +1,7 @@
 # 👋 Hello there
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="something special" target="_blank">
-  <img width="100%" src="./images/logo.png">
+  <img width="100%" src="./images/logo.svg">
 </a>
 
 <div align="center" width="95%">
