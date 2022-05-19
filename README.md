@@ -20,21 +20,20 @@
 </div>
 
 ## ✒️ About Me
-<table align="center">
-  <tr>
-    <td width="90%">
-      <p style="font-size:15px">偶爾寫寫程式的高中生，平常喜歡探索未知的事物，目前正在製作 Discord bot</p>
-      <div align="right">
-        <p width="100%">2022/5 by <a herf="https://github.com/lifeng-87" alt="@lifeng-87">@lifeng-87</a></p>
-      </div>
-    </td>
-    <td width="10%">
-      <a herf="https://github.com/lifeng-87" target="_blank">
-        <img width="100%" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
-      </a>
-    </td>
-  </tr>
-</table>
+
+<div align="right">
+  <img height="100em" align="right" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
+</div>
+
+```
+偶爾寫寫程式的高中生，平常喜歡探索未知的事物，目前正在製作 Discord bot
+```
+
+<div align="right">
+
+2022/5 by [@lifeng-87](https://github.com/lifeng-87)
+
+</div>
 
 ## 👩‍💻 Language
 
