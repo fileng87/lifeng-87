@@ -79,10 +79,14 @@
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
 <<<<<<< HEAD
+<<<<<<< HEAD
                             417 Commits
 =======
                             428 Commits
 >>>>>>> d336b654ec01d7711a9f95ed8c3d79de0f73709e
+=======
+                            429 Commits
+>>>>>>> 0ef2aa3d7ce93f51ecdee23c8313deaf5b59082d
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -419,10 +423,14 @@ The lab members soon face a string of mysterious incidents that lead to a game-c
             <footer>
                 <span>These metrics do not include all private contributions</span>
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <span>Last updated 18 May 2022, 00:16:20 (timezone Asia/Taipei) with lowlighter/metrics@3.23.0</span>
 =======
                 <span>Last updated 19 May 2022, 23:30:25 (timezone Asia/Taipei) with lowlighter/metrics@3.23.0</span>
 >>>>>>> d336b654ec01d7711a9f95ed8c3d79de0f73709e
+=======
+                <span>Last updated 19 May 2022, 23:31:30 (timezone Asia/Taipei) with lowlighter/metrics@3.23.0</span>
+>>>>>>> 0ef2aa3d7ce93f51ecdee23c8313deaf5b59082d
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
