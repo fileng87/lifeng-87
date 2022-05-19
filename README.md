@@ -20,7 +20,7 @@
 </div>
 
 ## ✒️ About Me
-<pre>偶爾寫寫程式的高中生，平常喜歡探索未知的事物，目前正在製作 Discord bot</pre>
+<pre width="70%">偶爾寫寫程式的高中生，平常喜歡探索未知的事物，目前正在製作 Discord bot</pre>
 <div align="right">
 <a href="https://github.com/lifeng-87" target="_blank">
   <img height="100em" align="right" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
