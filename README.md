@@ -27,7 +27,6 @@
 ```
 偶爾寫寫程式的高中生，平常喜歡探索未知的事物，目前正在製作 Discord bot
 ```
-
 <div align="right">
 
 2022/5 by [@lifeng-87](https://github.com/lifeng-87)
