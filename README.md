@@ -1,7 +1,7 @@
 # 👋 Hello there
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="something special" target="_blank">
-  <img width="100%" src="./images/logo.png">
+  <img width="100%" src="./images/logo.svg">
 </a>
 
 <div align="center" width="95%">
@@ -21,7 +21,9 @@
 
 ## ✒️ About Me
 
-<img height="100em" align="right" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
+<div align="right">
+  <img height="100em" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
+</div>
 
 ```
 我的名字叫Lifeng87，17歲。住在台灣，未婚。職業是學生。每天都要上課到下午5點才能回家。我不抽煙，不喝酒。晚上很晚睡，每天睡不足8個小時。睡前，我一定喝一杯水，然後在床上滑20分鐘的手機，滑完後，直接睡不著。失眠到天亮，絕對把疲勞和壓力留到第二天。醫生都說我過輕。
@@ -50,7 +52,6 @@
   <a href="https://github.com/lifeng-87" target="_blank">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=lifeng87&theme=discord_old_blurple&layout=compact&langs_count=8&hide_border=true&hide=Other" alt="lifeng87" />
   </a>
-  </br>
   <a herf="https://github.com/lifeng-87" target="_blank">
     <img height="270em" src="https://activity-graph.herokuapp.com/graph?username=lifeng-87&bg_color=2c2f33&color=4d5a83&line=4d5a83&point=ffffff&hide_border=true" alt="lifeng87"/>
   </a>
