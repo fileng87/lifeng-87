@@ -22,7 +22,7 @@
 ## ✒️ About Me
 
 <div align="right">
-  <img height="100em" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
+  <img height="100em" align="right" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
 </div>
 
 ```
