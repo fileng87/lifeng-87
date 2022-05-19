@@ -21,9 +21,7 @@
 
 ## ✒️ About Me
 
-<div align="right">
-  <img height="100em" align="right" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
-</div>
+<img height="100em" align="right" src="https://c.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif">
 
 ```
 偶爾寫寫程式的高中生，平常喜歡探索未知的事物，目前正在製作 Discord bot
