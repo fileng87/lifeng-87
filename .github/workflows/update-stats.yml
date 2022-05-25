@@ -53,7 +53,7 @@ jobs:
                   plugin_tweets: yes
                   plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
                   plugin_tweets_attachments: yes
-                  plugin_tweets_limit: 1
+                  plugin_tweets_limit: 3
                   plugin_tweets_user: lifeng87
                   plugin_wakatime: no
                   plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
