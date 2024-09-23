@@ -23,7 +23,7 @@ jobs:
                   token: ${{ secrets.METRICS_TOKEN }}
 
                   # Options
-                  user: lifeng-87
+                  user: fileng87
                   template: classic
                   base: header, activity, community, repositories, metadata
                   config_timezone: Asia/Taipei
